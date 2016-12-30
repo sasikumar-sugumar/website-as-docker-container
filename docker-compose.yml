@@ -1,0 +1,10 @@
+version: '2'
+services:
+  website:
+    image: eurosasi/karmasoc-domain
+    build: 
+     context: .
+     dockerfile: Dockerfile.website
+    ports:
+     - "80:80"
+
