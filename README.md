@@ -1,2 +1,2 @@
-# karmasoc-web-domain
-karmasoc web site content
+# web-domain
+web site content
